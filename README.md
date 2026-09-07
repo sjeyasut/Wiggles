@@ -33,7 +33,7 @@ The robot successfully operated autonomously, returned to base, lifted the scoop
 
 ## Demonstration
 
-[Watch the full test run]((https://youtu.be/EpNwdiVKVe4))
+[Watch the full test run](https://youtu.be/EpNwdiVKVe4)
 
 <!--![Wiggles robot](media/photos/wiggles-overview.jpg)-->
 
