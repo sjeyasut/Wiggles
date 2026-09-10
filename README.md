@@ -34,7 +34,7 @@ The claw used an N20 DC motor for extension and retraction, with an SG90 servo c
 
 The final prototype completed the demonstration in approximately **60 seconds**, within the required 120-second limit.
 
-The robot successfully operated autonomously, returned to base, lifted the scoop, and sorted target objects. Collection repeatability—particularly the transfer from the scoop into the sorting funnel—remained an area for improvement.
+The robot successfully operated autonomously, returned to base, lifted the scoop, and sorted target objects. Collection repeatability, particularly the transfer from the scoop into the sorting funnel, remained an area for improvement.
 
 ## Demonstration
 
@@ -48,5 +48,3 @@ The robot successfully operated autonomously, returned to base, lifted the scoop
 cad/             CAD files for the claw and lifting mechanism
 media/           Photos and demonstration videos
 prototypes/      Prototype development files
-src/             Relevant robot-control code
-docs/            Additional project documentation
