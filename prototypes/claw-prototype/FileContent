@@ -1,0 +1,18 @@
+IntakeCAD and Drawings
+
+Parts:
+ThreadedPinV2
+ServoBolt
+ScooperClaw
+ScooperBase
+CollectorBottomHalf
+BasePin
+CrossSectionPin
+CrossSectionBar
+CollectorScooperPin
+
+
+Assemblies
+IntakeAssembly
+ScooperAssemblyV2 (The one we are using
+ScooperAssembly (Not using this one anymore, its too big)
