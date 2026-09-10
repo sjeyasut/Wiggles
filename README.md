@@ -1,5 +1,10 @@
 # Wiggles — Autonomous Object Retrieval Robot
 
+<p align='center'>
+<img width="600" height="400" alt="FullBody" src="https://github.com/user-attachments/assets/bc2a9b2e-0f72-4912-9ffb-d29d01f65d90" />
+</p>
+
+
 Wiggles is an ESP32-controlled autonomous robot developed as part of a group mechatronics design project.
 
 The robot was designed to identify, collect, return, and sort valuable erasers within a 120-second time limit.
